@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name       Okta stay logged in.
+// @author     Wes Boynton (wes@boynton.io)
 // @namespace  http://okta.stay.logged.in.please/
 // @version    0.1
 // @description  Keeps you logged in to your Okta SSO console

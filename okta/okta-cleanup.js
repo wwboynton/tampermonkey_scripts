@@ -1,4 +1,5 @@
 // ==UserScript==
+// @author     Wes Boynton (wes@boynton.io)
 // @name       Okta remove annoying browser extension banner
 // @namespace  http://okta.stay.logged.in.please/
 // @version    0.1

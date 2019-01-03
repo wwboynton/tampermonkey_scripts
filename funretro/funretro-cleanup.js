@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Funretro Fixer
+// @author     Wes Boynton (wes@boynton.io)
 // @namespace    https://funretro.github.io/
 // @version      0.1
 // @description  Get rid of annoying meta-ads and intercom on funretro
-// @author       Wes Boynton
 // @match        https://funretro.github.io/*
 // @grant        none
 // @run-at      document-idle
