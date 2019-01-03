@@ -4,7 +4,7 @@
 // @namespace  http://okta.stay.logged.in.please/
 // @version    0.1
 // @description  Gets rid of some annoying crap in the Okta interface
-// @match      https://intersections.okta.com/*
+// @match      https://*.okta.com/*
 // @copyright  2018, Wes Boynton
 // This script ain't elegant but it scraped the crap off of the page that I wanted gone.
 // ==/UserScript==
